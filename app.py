@@ -1,5 +1,6 @@
 import time
 
+
 slide1 ='(^_^)'
 slide2 ='(^_~)'
 slide3 ='(^_^)'
@@ -17,5 +18,5 @@ time.sleep(1)
 print(slide4, end='\r')
 time.sleep(1)
 print(slide5, end='\r')
-time.sleep(1)
+
 
